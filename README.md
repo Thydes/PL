@@ -16,6 +16,8 @@
 
 作業連結區
 -------------
+### Ｗeek 2
+[HW1](https://colab.research.google.com/drive/1y3oRSrLbx67PthT569BLQmOWkWLTucVC#scrollTo=v8pSN7rw2Eds)
 
 專題連結區
 -------------
