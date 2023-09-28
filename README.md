@@ -25,6 +25,8 @@
 作業連結區
 -------------
 ### Ｗeek 3
+[Task2](https://colab.research.google.com/drive/1pB9VGCXMDRx-fpOL4fpxNvnPRId0P0Gp#scrollTo=NyGN1GtUkhHH)
+### Ｗeek 4
 [HW1](https://colab.research.google.com/drive/1y3oRSrLbx67PthT569BLQmOWkWLTucVC#scrollTo=v8pSN7rw2Eds)
 
 專題連結區
