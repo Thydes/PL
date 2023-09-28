@@ -23,11 +23,10 @@
 [HW1](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=681675)
 ### Ｗeek 4
 [PPT](https://docs.google.com/presentation/d/1ksO49KZCe0zUVObMiZCSIGuuyXDfDI2jmC0lO9HLenU/edit#slide=id.g21939175b36_0_300)
+[Task2](https://colab.research.google.com/drive/1pB9VGCXMDRx-fpOL4fpxNvnPRId0P0Gp#scrollTo=NyGN1GtUkhHH)
 
 作業連結區
 -------------
-### Ｗeek 4
-[Task2](https://colab.research.google.com/drive/1pB9VGCXMDRx-fpOL4fpxNvnPRId0P0Gp#scrollTo=NyGN1GtUkhHH)
 ### Ｗeek 5
 [HW1](https://colab.research.google.com/drive/1y3oRSrLbx67PthT569BLQmOWkWLTucVC#scrollTo=v8pSN7rw2Eds)
 
