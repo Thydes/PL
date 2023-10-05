@@ -23,12 +23,18 @@
 [HW1](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=681675)
 ### Ｗeek 4
 [PPT](https://docs.google.com/presentation/d/1ksO49KZCe0zUVObMiZCSIGuuyXDfDI2jmC0lO9HLenU/edit#slide=id.g21939175b36_0_300)
+[Video](https://youtu.be/jpL9FejPgV4?si=0__yxaNGaXh-kdTc)
 [Task2](https://colab.research.google.com/drive/1pB9VGCXMDRx-fpOL4fpxNvnPRId0P0Gp#scrollTo=NyGN1GtUkhHH)
+### Ｗeek 5
+[PPT](https://docs.google.com/presentation/d/1sdSY81rCz3-V6vACloza1xNXcwo7RYHncFgenAQM43M/edit#slide=id.g2231dcdd239_0_95)
+[Video](https://youtu.be/rX9m0GVDzvU?si=NqT70NqhSuM4gQl_)
 
 作業連結區
 -------------
 ### Ｗeek 5
 [HW1](https://colab.research.google.com/drive/1y3oRSrLbx67PthT569BLQmOWkWLTucVC#scrollTo=v8pSN7rw2Eds)
+### Ｗeek 7
+[HW2](https://colab.research.google.com/drive/1qiiyHYZKJ2SnTofHkXgPpEiPsVS97CTB#scrollTo=rRyuyOGvbapr)
 
 專題連結區
 -------------
