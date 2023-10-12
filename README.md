@@ -28,6 +28,9 @@
 ### Ｗeek 5
 [PPT](https://docs.google.com/presentation/d/1sdSY81rCz3-V6vACloza1xNXcwo7RYHncFgenAQM43M/edit#slide=id.g2231dcdd239_0_95)
 [Video](https://youtu.be/rX9m0GVDzvU?si=NqT70NqhSuM4gQl_)
+### Ｗeek 6
+[PPT](https://docs.google.com/presentation/d/1xi0VLe2y40oMiN-yNE9xERh3IW-iBrC96KE9kNMDLNg/edit#slide=id.g1f9cb025bde_0_16)
+[Task](https://colab.research.google.com/drive/1E7eHEhyfacWXQjZ3aY6_Z-9oNtlaOGof?hl=zh-tw#scrollTo=NlgyZu_tsda1)
 
 作業連結區
 -------------
