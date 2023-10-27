@@ -30,7 +30,14 @@
 [Video](https://youtu.be/rX9m0GVDzvU?si=NqT70NqhSuM4gQl_)
 ### Ｗeek 6
 [PPT](https://docs.google.com/presentation/d/1xi0VLe2y40oMiN-yNE9xERh3IW-iBrC96KE9kNMDLNg/edit#slide=id.g1f9cb025bde_0_16)
+[Video](https://youtu.be/ldPWXlYsUBI?si=bE3xRBE44vEHp-tN)
 [Task](https://colab.research.google.com/drive/1E7eHEhyfacWXQjZ3aY6_Z-9oNtlaOGof?hl=zh-tw#scrollTo=NlgyZu_tsda1)
+### Ｗeek 7
+[PPT](https://docs.google.com/presentation/d/1g6EEYvMuSdYtbv7zlO_emv8MYrDh2Z-loAXLoZAPWIU/edit#slide=id.g208c735537b_0_0)
+[Video](https://youtu.be/7Z7KFmz9dbI?si=xRuzmb3L6Cgefruv)
+### Ｗeek 8
+[PPT](https://docs.google.com/presentation/d/1wQkiVP-Yhs4Mj3lojACvL2upUheg6yXcz8mkscPdljA/edit#slide=id.g208c735537b_0_0)
+[Video](https://youtu.be/_a3W2_g4WE0?si=0lSWSpbe0V2OaCrC)
 
 作業連結區
 -------------
@@ -38,6 +45,8 @@
 [HW1](https://colab.research.google.com/drive/1y3oRSrLbx67PthT569BLQmOWkWLTucVC#scrollTo=v8pSN7rw2Eds)
 ### Ｗeek 7
 [HW2](https://colab.research.google.com/drive/1qiiyHYZKJ2SnTofHkXgPpEiPsVS97CTB#scrollTo=rRyuyOGvbapr)
+### Ｗeek 9
+[HW3]()
 
 專題連結區
 -------------
