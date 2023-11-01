@@ -47,6 +47,7 @@
 [HW2](https://colab.research.google.com/drive/1qiiyHYZKJ2SnTofHkXgPpEiPsVS97CTB#scrollTo=rRyuyOGvbapr)
 ### Ｗeek 9
 [HW3](https://colab.research.google.com/drive/1SV6CkqpxVWgAqLYx_o_U5Zj745_2RkYK)
+[HW3-PTT_Data](https://drive.google.com/drive/folders/165idXOtlWxnmu4S317i9MpouI09tzNKw?usp=drive_link)
 
 專題連結區
 -------------
