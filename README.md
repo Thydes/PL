@@ -46,7 +46,7 @@
 ### Ｗeek 7
 [HW2](https://colab.research.google.com/drive/1qiiyHYZKJ2SnTofHkXgPpEiPsVS97CTB#scrollTo=rRyuyOGvbapr)
 ### Ｗeek 9
-[HW3]()
+[HW3](https://colab.research.google.com/drive/1SV6CkqpxVWgAqLYx_o_U5Zj745_2RkYK)
 
 專題連結區
 -------------
