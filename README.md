@@ -38,6 +38,14 @@
 ### Ｗeek 8
 [PPT](https://docs.google.com/presentation/d/1wQkiVP-Yhs4Mj3lojACvL2upUheg6yXcz8mkscPdljA/edit#slide=id.g208c735537b_0_0)
 [Video](https://youtu.be/_a3W2_g4WE0?si=0lSWSpbe0V2OaCrC)
+### Ｗeek 9&10
+[PPT](https://docs.google.com/presentation/d/1RQysyIQrAqN3uyCvM29jiAGxjrEMxQkx3dTlKElq9ys/edit#slide=id.g208c735537b_0_0)
+[唐詩三百首文學地圖-Colab](https://colab.research.google.com/drive/160A8le6qatXCVNIB52jSKmheuKoVuO21?usp=sharing)
+[文字探勘與文字雲-Colab](https://colab.research.google.com/drive/1rTlAko4i1daBFp4bQPy-Pgjo8_lQ_DO4?usp=sharing)
+[Video-week9](https://youtu.be/AOcSx9QXqbg?si=lBSD7_P0Ut1cosJd)
+[LDA主題式分析視覺化-Colab](https://colab.research.google.com/drive/1oOQ_s_b8A-WveY7VHSoa7cc1qlTZY4yD?usp=sharing)
+[Video-week10](https://youtu.be/VpSStJonXIk?si=EUrP53q0N_NAXoJ3)
+[LDA主題式分析視覺化-學生作品DEMO](https://youtu.be/AOkseAzwYK4?si=ndZPwkrDi-ZXNAqZ)
 
 作業連結區
 -------------
@@ -48,6 +56,9 @@
 ### Ｗeek 9
 [HW3](https://colab.research.google.com/drive/1SV6CkqpxVWgAqLYx_o_U5Zj745_2RkYK)
 [HW3-PTT_Data](https://drive.google.com/drive/folders/165idXOtlWxnmu4S317i9MpouI09tzNKw?usp=drive_link)
+### Ｗeek 11
+[HW4-Medium]()
+[HW4]()
 
 專題連結區
 -------------
