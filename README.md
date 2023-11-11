@@ -57,8 +57,9 @@
 [HW3](https://colab.research.google.com/drive/1SV6CkqpxVWgAqLYx_o_U5Zj745_2RkYK)
 [HW3-PTT_Data](https://drive.google.com/drive/folders/165idXOtlWxnmu4S317i9MpouI09tzNKw?usp=drive_link)
 ### Ｗeek 11
-[HW4-Medium]()
-[HW4]()
+[HW4-Medium](https://medium.com/@61071019h/文字探勘與文字雲-沖繩美食-必吃-特色美食-推薦-9da399c30f34)
+[HW4-Google試算表](https://docs.google.com/spreadsheets/d/1uxpI9cv-ni3_ZoqxUA7U7swkVaN25iA-DzFio7FNkUg/edit#gid=0)
+[HW4-Colab](https://colab.research.google.com/drive/1DG2FAmB1PCYsngguWGn32TY8lI5GHgQc?usp=sharing)
 
 專題連結區
 -------------
