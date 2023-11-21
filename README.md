@@ -46,6 +46,8 @@
 [LDA主題式分析視覺化-Colab](https://colab.research.google.com/drive/1oOQ_s_b8A-WveY7VHSoa7cc1qlTZY4yD?usp=sharing)
 [Video-week10](https://youtu.be/VpSStJonXIk?si=EUrP53q0N_NAXoJ3)
 [LDA主題式分析視覺化-學生作品DEMO](https://youtu.be/AOkseAzwYK4?si=ndZPwkrDi-ZXNAqZ)
+### Ｗeek 11
+[程式語言講座 - 戴志洋](https://youtu.be/gG_88RUNVvo?si=OIu6hn6UKm4v0ZuC)
 
 作業連結區
 -------------
@@ -60,6 +62,9 @@
 [HW4-Medium](https://medium.com/@61071019h/文字探勘與文字雲-沖繩美食-必吃-特色美食-推薦-9da399c30f34)
 [HW4-Google試算表](https://docs.google.com/spreadsheets/d/1uxpI9cv-ni3_ZoqxUA7U7swkVaN25iA-DzFio7FNkUg/edit#gid=0)
 [HW4-Colab](https://colab.research.google.com/drive/1DG2FAmB1PCYsngguWGn32TY8lI5GHgQc?usp=sharing)
+### Ｗeek 12
+[HW5-Medium]()
+[HW5-Colab]()
 
 專題連結區
 -------------
