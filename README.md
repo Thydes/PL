@@ -49,7 +49,7 @@
 ### Ｗeek 11
 [程式語言講座 - 戴志洋](https://youtu.be/gG_88RUNVvo?si=OIu6hn6UKm4v0ZuC)
 ### Ｗeek 12
-[Video-week12](https://youtu.be/YjjdNNXMklk?si=PG1_VfB7XZ3rLavV)
+[Video](https://youtu.be/YjjdNNXMklk?si=PG1_VfB7XZ3rLavV)
 
 作業連結區
 -------------
