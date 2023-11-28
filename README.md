@@ -48,6 +48,8 @@
 [LDA主題式分析視覺化-學生作品DEMO](https://youtu.be/AOkseAzwYK4?si=ndZPwkrDi-ZXNAqZ)
 ### Ｗeek 11
 [程式語言講座 - 戴志洋](https://youtu.be/gG_88RUNVvo?si=OIu6hn6UKm4v0ZuC)
+### Ｗeek 12
+[Video-week12](https://youtu.be/YjjdNNXMklk?si=PG1_VfB7XZ3rLavV)
 
 作業連結區
 -------------
@@ -62,9 +64,11 @@
 [HW4-Medium](https://medium.com/@61071019h/文字探勘與文字雲-沖繩美食-必吃-特色美食-推薦-9da399c30f34)
 [HW4-Google試算表](https://docs.google.com/spreadsheets/d/1uxpI9cv-ni3_ZoqxUA7U7swkVaN25iA-DzFio7FNkUg/edit#gid=0)
 [HW4-Colab](https://colab.research.google.com/drive/1DG2FAmB1PCYsngguWGn32TY8lI5GHgQc?usp=sharing)
-### Ｗeek 12
-[HW5-Medium]()
-[HW5-Colab]()
+### Ｗeek 13
+[HW5-Medium](https://medium.com/@61071019h/網路爬蟲與散點圖-沖繩美食-食記蒐集篇-d12dc4e3d52c)
+[HW5-Colab](https://colab.research.google.com/drive/1PRdFWyhMrLX3mK8v3XaNXYBavcRKFH0F?usp=sharing)
 
 專題連結區
 -------------
+### Ｗeek 13
+[迷你黑客松分組提案](https://youtu.be/ztnq1zNB3vk)
