@@ -72,3 +72,5 @@
 -------------
 ### Ｗeek 13
 [迷你黑客松分組提案](https://youtu.be/ztnq1zNB3vk)
+### Week 14
+[迷你黑客松第一次進度檢核](https://youtu.be/bGfS6EiH2oc)
